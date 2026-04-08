@@ -45,18 +45,15 @@ Confirmed compromise of privileged or administrative accounts
 Legal thresholds for disclosure are met or exceeded
 
 **Governance Flow & Maturity Path**
+
 <br>
 <img width="476" height="442" alt="image" src="https://github.com/user-attachments/assets/f9b4926e-8d28-40d1-8ad9-aff044a98580" /><br>
 
 
 **Regulatory Bodies Considered**
-
 -California Bureau for Private Postsecondary Education (BPPE)
-
 -U.S. Department of Education
-
 -State Attorneys General (multi-state scenarios)
-
 -Secretary of State (where applicable)
 
 

@@ -49,11 +49,13 @@ Legal thresholds for disclosure are met or exceeded
 
 <img width="476" height="442" alt="image" src="https://github.com/user-attachments/assets/f9b4926e-8d28-40d1-8ad9-aff044a98580" />
 
+
 **Regulatory Bodies Considered**
 -California Bureau for Private Postsecondary Education (BPPE)
 -U.S. Department of Education
 -State Attorneys General (multi-state scenarios)
 -Secretary of State (where applicable)
+
 
 **Outcome**
 -Defined escalation thresholds reduce ambiguity during incidents

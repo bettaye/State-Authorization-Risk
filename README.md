@@ -45,8 +45,8 @@ Confirmed compromise of privileged or administrative accounts
 Legal thresholds for disclosure are met or exceeded
 
 **Governance Flow & Maturity Path**
-
-<img width="476" height="442" alt="image" src="https://github.com/user-attachments/assets/f9b4926e-8d28-40d1-8ad9-aff044a98580" />
+<br>
+<img width="476" height="442" alt="image" src="https://github.com/user-attachments/assets/f9b4926e-8d28-40d1-8ad9-aff044a98580" /><br>
 
 
 **Regulatory Bodies Considered**

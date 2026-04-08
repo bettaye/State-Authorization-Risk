@@ -33,7 +33,8 @@ Risk Characteristics:<br>
 <br>
 Escalation Criteria & Ownership:<br>
 
-![Escalation Chart](https://github.com/user-attachments/assets/568984cd-a9a9-42a5-a5f9-7e2408e95663)
+![Flow chart 2](https://github.com/user-attachments/assets/4c7600f2-5f86-4c7a-bb89-c3cd5e538f12)
+
 <br>
 
 **Regulatory Notification Rationale**<br>

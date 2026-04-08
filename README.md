@@ -23,7 +23,7 @@ Primary Risk Domains:<br>
 -Delayed or incorrect escalation decisions<br>
 -Reputational impact and loss of institutional trust<br>
 <br>
-**Risk Characteristics:**<br>
+Risk Characteristics:<br>
 -Likelihood: Moderate (based on common incident scenarios)<br>
 -Impact: High (legal + operational + reputational)<br>
 -Inherent Risk: High due to regulatory complexity<br>

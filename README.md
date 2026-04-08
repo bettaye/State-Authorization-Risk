@@ -33,7 +33,8 @@ Risk Characteristics:<br>
 <br>
 Escalation Criteria & Ownership:<br>
 
-![Flow chart 2](https://github.com/user-attachments/assets/4c7600f2-5f86-4c7a-bb89-c3cd5e538f12)
+
+![Escalation Chart](https://github.com/user-attachments/assets/adf8c861-ed97-426e-a50d-75190a6368d4)
 
 <br>
 
@@ -50,7 +51,8 @@ Regulatory escalation is triggered when one or more of the following conditions 
 **Governance Flow & Maturity Path**<br>
 
 <br>
-<img width="476" height="442" alt="image" src="https://github.com/user-attachments/assets/f9b4926e-8d28-40d1-8ad9-aff044a98580" /><br>
+![Flow chart 2](https://github.com/user-attachments/assets/4c7600f2-5f86-4c7a-bb89-c3cd5e538f12)
+
 <br>
 
 **Regulatory Bodies Considered**<br>

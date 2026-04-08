@@ -28,11 +28,10 @@ Risk Characteristics:<br>
 -Impact: High (legal + operational + reputational)<br>
 -Inherent Risk: High due to regulatory complexity<br>
 -Residual Risk: Reduced through structured escalation criteria and governance clarity<br>
-<br>
+
 **Decision & Rationale**<br>
 <br>
 Escalation Criteria & Ownership:<br>
-
 
 ![Escalation Chart](https://github.com/user-attachments/assets/adf8c861-ed97-426e-a50d-75190a6368d4)<br>
 
@@ -57,7 +56,7 @@ Regulatory escalation is triggered when one or more of the following conditions 
 -U.S. Department of Education<br>
 -State Attorneys General (multi-state scenarios)<br>
 -Secretary of State (where applicable)<br>
-<br>
+
 **Outcome**<br>
 -Defined escalation thresholds reduce ambiguity during incidents<br>
 -Improved response time and regulatory accuracy<br>

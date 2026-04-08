@@ -51,6 +51,7 @@ Regulatory escalation is triggered when one or more of the following conditions 
 
 ![Flow chart 2](https://github.com/user-attachments/assets/e78a1260-633e-46f1-978d-a2c3a80f2559)
 <br>
+
 **Regulatory Bodies Considered**<br>
 -California Bureau for Private Postsecondary Education (BPPE)<br>
 -U.S. Department of Education<br>

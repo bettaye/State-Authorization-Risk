@@ -6,9 +6,9 @@ This artifact demonstrates a structured governance framework for determining whe
 <br>
 
 Frameworks referenced:<br>
-NIST CSF<br>
-NIST 800-53 (specifically the IR, RA, IA families)<br>
-FERPA regulatory considerations<br>
+-NIST CSF<br>
+-NIST 800-53 (specifically the IR, RA, IA families)<br>
+-FERPA regulatory considerations<br>
 <br>
 **Why This Matters:**
 
@@ -17,6 +17,7 @@ Failure to correctly identify and act on regulatory notification obligations dur
 **Risk Context & Assessment**
 <br>
 Primary Risk Domains:<br>
+<br>
 -Exposure of student PII (FERPA-protected data)<br>
 -Multi-state breach notification obligations<br>
 -Delayed or incorrect escalation decisions<br>

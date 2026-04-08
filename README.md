@@ -34,9 +34,7 @@ Risk Characteristics:<br>
 Escalation Criteria & Ownership:<br>
 
 
-![Escalation Chart](https://github.com/user-attachments/assets/adf8c861-ed97-426e-a50d-75190a6368d4)
-
-<br>
+![Escalation Chart](https://github.com/user-attachments/assets/adf8c861-ed97-426e-a50d-75190a6368d4)<br>
 
 **Regulatory Notification Rationale**<br>
 
@@ -49,12 +47,10 @@ Regulatory escalation is triggered when one or more of the following conditions 
 -Legal thresholds for disclosure are met or exceeded<br>
 <br>
 **Governance Flow & Maturity Path**<br>
-
 <br>
 
 ![Flow chart 2](https://github.com/user-attachments/assets/e78a1260-633e-46f1-978d-a2c3a80f2559)
 <br>
-
 **Regulatory Bodies Considered**<br>
 -California Bureau for Private Postsecondary Education (BPPE)<br>
 -U.S. Department of Education<br>

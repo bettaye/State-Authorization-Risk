@@ -61,7 +61,6 @@ Regulatory escalation is triggered when one or more of the following conditions 
 -State Attorneys General (multi-state scenarios)<br>
 -Secretary of State (where applicable)<br>
 <br>
-
 **Outcome**<br>
 -Defined escalation thresholds reduce ambiguity during incidents<br>
 -Improved response time and regulatory accuracy<br>

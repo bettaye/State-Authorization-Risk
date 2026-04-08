@@ -35,6 +35,7 @@ Escalation Criteria & Ownership:<br>
 
 ![Escalation Chart](https://github.com/user-attachments/assets/568984cd-a9a9-42a5-a5f9-7e2408e95663)
 <br>
+
 **Regulatory Notification Rationale**<br>
 <br>
 Regulatory escalation is triggered when one or more of the following conditions are met:<br>

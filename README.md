@@ -60,7 +60,6 @@ Regulatory escalation is triggered when one or more of the following conditions 
 -U.S. Department of Education<br>
 -State Attorneys General (multi-state scenarios)<br>
 -Secretary of State (where applicable)<br>
-
 <br>
 
 **Outcome**<br>

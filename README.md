@@ -51,10 +51,7 @@ Regulatory escalation is triggered when one or more of the following conditions 
 **Governance Flow & Maturity Path**<br>
 
 <br>
-
-
 ![Flow chart 2](https://github.com/user-attachments/assets/e78a1260-633e-46f1-978d-a2c3a80f2559)
-
 <br>
 
 **Regulatory Bodies Considered**<br>

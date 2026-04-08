@@ -48,8 +48,8 @@ Legal thresholds for disclosure are met or exceeded
 
 <br>
 <img width="476" height="442" alt="image" src="https://github.com/user-attachments/assets/f9b4926e-8d28-40d1-8ad9-aff044a98580" /><br>
-
 <br>
+
 **Regulatory Bodies Considered**<br>
 -California Bureau for Private Postsecondary Education (BPPE)<br>
 -U.S. Department of Education<br>
@@ -59,8 +59,7 @@ Legal thresholds for disclosure are met or exceeded
 <br>
 
 **Outcome**<br>
-<br>
--Defined escalation thresholds reduce ambiguity during incidents
--Improved response time and regulatory accuracy
+-Defined escalation thresholds reduce ambiguity during incidents<br>
+-Improved response time and regulatory accuracy<br>
 -Strengthened audit readiness and documentation consistency<br>
 

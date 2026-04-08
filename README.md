@@ -53,7 +53,7 @@ Legal thresholds for disclosure are met or exceeded
 **Regulatory Bodies Considered**<br>
 -California Bureau for Private Postsecondary Education (BPPE)<br>
 -U.S. Department of Education<br>
--State Attorneys General (multi-state scenarios)
+-State Attorneys General (multi-state scenarios)<br>
 -Secretary of State (where applicable)<br>
 
 <br>

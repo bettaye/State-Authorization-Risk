@@ -21,30 +21,30 @@ Primary Risk Domains:<br>
 -Multi-state breach notification obligations<br>
 -Delayed or incorrect escalation decisions<br>
 -Reputational impact and loss of institutional trust<br>
-
-Risk Characteristics:
--Likelihood: Moderate (based on common incident scenarios)
--Impact: High (legal + operational + reputational)
--Inherent Risk: High due to regulatory complexity
--Residual Risk: Reduced through structured escalation criteria and governance clarity
-
-**Decision & Rationale**
-
-Escalation Criteria & Ownership:
+<br>
+**Risk Characteristics:**<br>
+-Likelihood: Moderate (based on common incident scenarios)<br>
+-Impact: High (legal + operational + reputational)<br>
+-Inherent Risk: High due to regulatory complexity<br>
+-Residual Risk: Reduced through structured escalation criteria and governance clarity<br>
+<br>
+**Decision & Rationale**<br>
+<br>
+Escalation Criteria & Ownership:<br>
 
 ![Escalation Chart](https://github.com/user-attachments/assets/568984cd-a9a9-42a5-a5f9-7e2408e95663)
-
-**Regulatory Notification Rationale**
-
-Regulatory escalation is triggered when one or more of the following conditions are met:
-Exposure or suspected exposure of protected student data (FERPA)
-Breach impacting California residents (state breach notification laws)
-Multi-state student impact requiring cross-jurisdiction compliance
-Material incident affecting institutional operations or reporting obligations
-Confirmed compromise of privileged or administrative accounts
-Legal thresholds for disclosure are met or exceeded
-
-**Governance Flow & Maturity Path**
+<br>
+**Regulatory Notification Rationale**<br>
+<br>
+Regulatory escalation is triggered when one or more of the following conditions are met:<br>
+Exposure or suspected exposure of protected student data (FERPA)<br>
+Breach impacting California residents (state breach notification laws)<br>
+Multi-state student impact requiring cross-jurisdiction compliance<br>
+Material incident affecting institutional operations or reporting obligations<br>
+Confirmed compromise of privileged or administrative accounts<br>
+Legal thresholds for disclosure are met or exceeded<br>
+<br>
+**Governance Flow & Maturity Path**<br>
 
 <br>
 <img width="476" height="442" alt="image" src="https://github.com/user-attachments/assets/f9b4926e-8d28-40d1-8ad9-aff044a98580" /><br>

@@ -39,12 +39,12 @@ Escalation Criteria & Ownership:<br>
 **Regulatory Notification Rationale**<br>
 <br>
 Regulatory escalation is triggered when one or more of the following conditions are met:<br>
-Exposure or suspected exposure of protected student data (FERPA)<br>
-Breach impacting California residents (state breach notification laws)<br>
-Multi-state student impact requiring cross-jurisdiction compliance<br>
-Material incident affecting institutional operations or reporting obligations<br>
-Confirmed compromise of privileged or administrative accounts<br>
-Legal thresholds for disclosure are met or exceeded<br>
+-Exposure or suspected exposure of protected student data (FERPA)<br>
+-Breach impacting California residents (state breach notification laws)<br>
+-Multi-state student impact requiring cross-jurisdiction compliance<br>
+-Material incident affecting institutional operations or reporting obligations<br>
+-Confirmed compromise of privileged or administrative accounts<br>
+-Legal thresholds for disclosure are met or exceeded<br>
 <br>
 **Governance Flow & Maturity Path**<br>
 

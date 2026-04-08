@@ -1,5 +1,4 @@
 # State-Authorization-Risk
-Strengthened state authorization compliance by analyzing regulatory and operational risks in higher education settings.
 
 **Overview: State Auth Case Study**
 
@@ -51,6 +50,7 @@ Legal thresholds for disclosure are met or exceeded
 
 
 **Regulatory Bodies Considered**
+
 -California Bureau for Private Postsecondary Education (BPPE)
 -U.S. Department of Education
 -State Attorneys General (multi-state scenarios)
@@ -58,6 +58,7 @@ Legal thresholds for disclosure are met or exceeded
 
 
 **Outcome**
+
 -Defined escalation thresholds reduce ambiguity during incidents
 -Improved response time and regulatory accuracy
 -Strengthened audit readiness and documentation consistency
